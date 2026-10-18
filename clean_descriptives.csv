@@ -1,0 +1,109 @@
+﻿embedding_model,analysis,language_code,language_name,tier,image_source,n,mean,std,median,minimum,maximum
+qwen3,all5_primary,ar,Modern Standard Arabic,5,real_coco,96,0.56303166,0.08115472,0.55870703,0.35622501,0.79430521
+qwen3,all5_primary,ar,Modern Standard Arabic,5,openai,96,0.53767600,0.08632261,0.53396559,0.35564440,0.78673667
+qwen3,all5_primary,ar,Modern Standard Arabic,5,google,96,0.53141133,0.09044243,0.53146389,0.27441722,0.73692089
+qwen3,all5_primary,da,Danish,3,real_coco,99,0.52402578,0.09430555,0.53202862,0.26004735,0.74006939
+qwen3,all5_primary,da,Danish,3,openai,99,0.52418566,0.09586498,0.53405106,0.30539495,0.74006939
+qwen3,all5_primary,da,Danish,3,google,99,0.51051025,0.09261308,0.51495773,0.30264166,0.70714176
+qwen3,all5_primary,en,English,5,real_coco,100,0.75232537,0.07731439,0.75850961,0.54680902,0.92995483
+qwen3,all5_primary,en,English,5,openai,100,0.74012925,0.08563457,0.74489668,0.44577414,0.92995483
+qwen3,all5_primary,en,English,5,google,100,0.73114456,0.08376955,0.74084365,0.43639868,0.91621745
+qwen3,all5_primary,sw,Swahili,2,real_coco,91,0.35129151,0.12280374,0.31299356,0.14897624,0.64282358
+qwen3,all5_primary,sw,Swahili,2,openai,91,0.35192770,0.12190169,0.33198267,0.12944373,0.64282358
+qwen3,all5_primary,sw,Swahili,2,google,91,0.33995588,0.11585878,0.31483430,0.13529305,0.61177766
+qwen3,all5_primary,te,Telugu,1,real_coco,88,0.37911584,0.07613974,0.37714261,0.14644125,0.57598615
+qwen3,all5_primary,te,Telugu,1,openai,88,0.38173067,0.08633052,0.38640986,0.12263274,0.56518066
+qwen3,all5_primary,te,Telugu,1,google,88,0.36996599,0.07986625,0.36702523,0.21500666,0.56352538
+qwen3,all5_primary,tr,Turkish,4,real_coco,95,0.55852054,0.08667964,0.57190019,0.32495135,0.74948180
+qwen3,all5_primary,tr,Turkish,4,openai,95,0.55542008,0.08970425,0.54753834,0.29992533,0.74515498
+qwen3,all5_primary,tr,Turkish,4,google,95,0.54005676,0.10248040,0.53995466,0.24054904,0.73430163
+qwen3,other4_sensitivity,ar,Modern Standard Arabic,5,real_coco,96,0.56378590,0.08214921,0.56491974,0.34001589,0.78895509
+qwen3,other4_sensitivity,ar,Modern Standard Arabic,5,openai,96,0.52726190,0.08839072,0.52539230,0.34508538,0.78377080
+qwen3,other4_sensitivity,ar,Modern Standard Arabic,5,google,96,0.52161859,0.09254599,0.52641311,0.23421861,0.73200607
+qwen3,other4_sensitivity,da,Danish,3,real_coco,99,0.52402515,0.09488453,0.53047466,0.27127275,0.73587203
+qwen3,other4_sensitivity,da,Danish,3,openai,99,0.51351113,0.09805750,0.51539409,0.30384171,0.72801024
+qwen3,other4_sensitivity,da,Danish,3,google,99,0.50023751,0.09499476,0.50829470,0.26493135,0.70320827
+qwen3,other4_sensitivity,en,English,5,real_coco,100,0.75332488,0.07758630,0.76419026,0.52534777,0.93058920
+qwen3,other4_sensitivity,en,English,5,openai,100,0.72210989,0.09686783,0.73253232,0.41015953,0.93058920
+qwen3,other4_sensitivity,en,English,5,google,100,0.71543718,0.09425932,0.72788897,0.39888757,0.91873068
+qwen3,other4_sensitivity,sw,Swahili,2,real_coco,91,0.34940352,0.12243134,0.31355160,0.13904954,0.64413309
+qwen3,other4_sensitivity,sw,Swahili,2,openai,91,0.34687499,0.11940806,0.32677484,0.12090790,0.64413309
+qwen3,other4_sensitivity,sw,Swahili,2,google,91,0.33634257,0.11366181,0.31197321,0.12621672,0.61025888
+qwen3,other4_sensitivity,te,Telugu,1,real_coco,88,0.37908790,0.07804123,0.37896502,0.13604841,0.57471931
+qwen3,other4_sensitivity,te,Telugu,1,openai,88,0.37714194,0.08815797,0.37874256,0.11865820,0.58376980
+qwen3,other4_sensitivity,te,Telugu,1,google,88,0.36587636,0.08026553,0.36143174,0.20937550,0.58167881
+qwen3,other4_sensitivity,tr,Turkish,4,real_coco,95,0.55793304,0.08772739,0.56693000,0.30584773,0.73638326
+qwen3,other4_sensitivity,tr,Turkish,4,openai,95,0.54819503,0.09131774,0.54628116,0.28514510,0.74441350
+qwen3,other4_sensitivity,tr,Turkish,4,google,95,0.53268979,0.10420085,0.53503048,0.21174312,0.75853056
+qwen3,generation_reference_secondary,ar,Modern Standard Arabic,5,real_coco,96,0.56001469,0.09529177,0.56259725,0.34811491,0.81570584
+qwen3,generation_reference_secondary,ar,Modern Standard Arabic,5,openai,96,0.57933239,0.09801550,0.56973848,0.35500470,0.79860008
+qwen3,generation_reference_secondary,ar,Modern Standard Arabic,5,google,96,0.57058234,0.09973912,0.57107538,0.32157016,0.79292607
+qwen3,generation_reference_secondary,da,Danish,3,real_coco,99,0.52402828,0.10965703,0.52976727,0.21514571,0.78830594
+qwen3,generation_reference_secondary,da,Danish,3,openai,99,0.56688379,0.10921584,0.57326752,0.28563756,0.79085207
+qwen3,generation_reference_secondary,da,Danish,3,google,99,0.55160120,0.10066634,0.56211948,0.31111377,0.73954010
+qwen3,generation_reference_secondary,en,English,5,real_coco,100,0.74832731,0.10885079,0.76261145,0.44629455,0.94802350
+qwen3,generation_reference_secondary,en,English,5,openai,100,0.81220668,0.08497051,0.81633201,0.54148483,0.96762818
+qwen3,generation_reference_secondary,en,English,5,google,100,0.79397407,0.09370714,0.80454486,0.54349273,0.99804586
+qwen3,generation_reference_secondary,sw,Swahili,2,real_coco,91,0.35884345,0.13131833,0.31076130,0.14166608,0.63758576
+qwen3,generation_reference_secondary,sw,Swahili,2,openai,91,0.37213851,0.13830433,0.34765440,0.13371916,0.67315811
+qwen3,generation_reference_secondary,sw,Swahili,2,google,91,0.35440914,0.12998994,0.32462269,0.15632579,0.67391700
+qwen3,generation_reference_secondary,te,Telugu,1,real_coco,88,0.37922758,0.07977226,0.37772885,0.18801257,0.60545206
+qwen3,generation_reference_secondary,te,Telugu,1,openai,88,0.40008559,0.09002592,0.40725343,0.13853091,0.61778373
+qwen3,generation_reference_secondary,te,Telugu,1,google,88,0.38632450,0.09336815,0.38692841,0.22092475,0.68740916
+qwen3,generation_reference_secondary,tr,Turkish,4,real_coco,95,0.56087053,0.10159863,0.55854106,0.33917689,0.80187577
+qwen3,generation_reference_secondary,tr,Turkish,4,openai,95,0.58432027,0.10471977,0.57301480,0.33661434,0.78968173
+qwen3,generation_reference_secondary,tr,Turkish,4,google,95,0.56952467,0.11341775,0.58691287,0.29381114,0.76864207
+bge_m3,all5_primary,ar,Modern Standard Arabic,5,real_coco,96,0.67035457,0.06362134,0.66958151,0.52752626,0.83839953
+bge_m3,all5_primary,ar,Modern Standard Arabic,5,openai,96,0.64179459,0.07344810,0.64164001,0.48122835,0.85154933
+bge_m3,all5_primary,ar,Modern Standard Arabic,5,google,96,0.64152341,0.07206063,0.64378202,0.42349657,0.81337643
+bge_m3,all5_primary,da,Danish,3,real_coco,99,0.70892375,0.07120892,0.71045929,0.49059582,0.88818997
+bge_m3,all5_primary,da,Danish,3,openai,99,0.69992001,0.07425046,0.70147312,0.43851981,0.88818997
+bge_m3,all5_primary,da,Danish,3,google,99,0.69443577,0.07450309,0.69634497,0.50085640,0.87555665
+bge_m3,all5_primary,en,English,5,real_coco,100,0.76690529,0.06630809,0.77183840,0.57009423,0.93310279
+bge_m3,all5_primary,en,English,5,openai,100,0.76079024,0.07253422,0.76830927,0.54843938,0.93828946
+bge_m3,all5_primary,en,English,5,google,100,0.75156304,0.07218711,0.75421703,0.53748620,0.92497218
+bge_m3,all5_primary,sw,Swahili,2,real_coco,91,0.66580615,0.07145360,0.66875011,0.50786144,0.82799637
+bge_m3,all5_primary,sw,Swahili,2,openai,91,0.65802606,0.07002222,0.65586722,0.51442993,0.82024157
+bge_m3,all5_primary,sw,Swahili,2,google,91,0.64853129,0.07353718,0.65958154,0.46083671,0.79603398
+bge_m3,all5_primary,te,Telugu,1,real_coco,88,0.62187214,0.08065134,0.62925460,0.43664366,0.76085937
+bge_m3,all5_primary,te,Telugu,1,openai,88,0.62203347,0.08114797,0.63010168,0.30368227,0.76227582
+bge_m3,all5_primary,te,Telugu,1,google,88,0.60884236,0.08192619,0.61678940,0.39585131,0.81071919
+bge_m3,all5_primary,tr,Turkish,4,real_coco,95,0.68605520,0.06735996,0.68532795,0.49314946,0.83454239
+bge_m3,all5_primary,tr,Turkish,4,openai,95,0.67457922,0.06847493,0.67410749,0.48586178,0.80090141
+bge_m3,all5_primary,tr,Turkish,4,google,95,0.66344460,0.07586508,0.66927320,0.45486131,0.80083925
+bge_m3,other4_sensitivity,ar,Modern Standard Arabic,5,real_coco,96,0.67201395,0.06375972,0.67221299,0.54284179,0.83085620
+bge_m3,other4_sensitivity,ar,Modern Standard Arabic,5,openai,96,0.63125804,0.07667742,0.62516826,0.47500193,0.84675246
+bge_m3,other4_sensitivity,ar,Modern Standard Arabic,5,google,96,0.63154776,0.07725880,0.63154125,0.40212604,0.80258548
+bge_m3,other4_sensitivity,da,Danish,3,real_coco,99,0.70972599,0.06979057,0.70755112,0.48965490,0.88604069
+bge_m3,other4_sensitivity,da,Danish,3,openai,99,0.68936119,0.07854622,0.69195938,0.40763518,0.88604069
+bge_m3,other4_sensitivity,da,Danish,3,google,99,0.68416112,0.08037679,0.68818331,0.47212079,0.87045503
+bge_m3,other4_sensitivity,en,English,5,real_coco,100,0.76750653,0.06584853,0.76925656,0.54832333,0.91986597
+bge_m3,other4_sensitivity,en,English,5,openai,100,0.74397807,0.08121257,0.75222155,0.51919556,0.93277538
+bge_m3,other4_sensitivity,en,English,5,google,100,0.73742836,0.08162614,0.73686201,0.49518558,0.91328096
+bge_m3,other4_sensitivity,sw,Swahili,2,real_coco,91,0.66448219,0.07271406,0.65883160,0.49168372,0.82049817
+bge_m3,other4_sensitivity,sw,Swahili,2,openai,91,0.65028456,0.07090062,0.64665872,0.48967543,0.82049817
+bge_m3,other4_sensitivity,sw,Swahili,2,google,91,0.64101768,0.07611889,0.64581686,0.43630707,0.78680253
+bge_m3,other4_sensitivity,te,Telugu,1,real_coco,88,0.62167777,0.08152236,0.62864560,0.44139761,0.79125082
+bge_m3,other4_sensitivity,te,Telugu,1,openai,88,0.61364310,0.08324070,0.62448639,0.29856241,0.75493097
+bge_m3,other4_sensitivity,te,Telugu,1,google,88,0.60177181,0.08197426,0.60804543,0.37809390,0.80477786
+bge_m3,other4_sensitivity,tr,Turkish,4,real_coco,95,0.68507876,0.06853123,0.68978024,0.48740071,0.84052420
+bge_m3,other4_sensitivity,tr,Turkish,4,openai,95,0.66376102,0.07272971,0.66121078,0.45255023,0.82221472
+bge_m3,other4_sensitivity,tr,Turkish,4,google,95,0.65242071,0.07954690,0.66294158,0.42586306,0.79662752
+bge_m3,generation_reference_secondary,ar,Modern Standard Arabic,5,real_coco,96,0.66371705,0.08426593,0.66070801,0.43935904,0.88073635
+bge_m3,generation_reference_secondary,ar,Modern Standard Arabic,5,openai,96,0.68394080,0.08196115,0.66899217,0.50613397,0.87073684
+bge_m3,generation_reference_secondary,ar,Modern Standard Arabic,5,google,96,0.68142601,0.07520663,0.67851686,0.49738395,0.85654020
+bge_m3,generation_reference_secondary,da,Danish,3,real_coco,99,0.70571477,0.10014371,0.70713794,0.47996867,0.90946198
+bge_m3,generation_reference_secondary,da,Danish,3,openai,99,0.74215529,0.08688996,0.75005126,0.52623624,0.93544376
+bge_m3,generation_reference_secondary,da,Danish,3,google,99,0.73553439,0.08072768,0.73398912,0.51820004,0.89596319
+bge_m3,generation_reference_secondary,en,English,5,real_coco,100,0.76450035,0.09889868,0.76538279,0.51901472,0.98605013
+bge_m3,generation_reference_secondary,en,English,5,openai,100,0.82803895,0.07783401,0.82537430,0.58970374,0.98605013
+bge_m3,generation_reference_secondary,en,English,5,google,100,0.80810171,0.08131717,0.80042798,0.57199860,1.00000000
+bge_m3,generation_reference_secondary,sw,Swahili,2,real_coco,91,0.67110198,0.08836006,0.67037928,0.45512199,0.89958215
+bge_m3,generation_reference_secondary,sw,Swahili,2,openai,91,0.68899207,0.08750987,0.67387974,0.50836146,0.89867437
+bge_m3,generation_reference_secondary,sw,Swahili,2,google,91,0.67858576,0.08265102,0.69295704,0.52683628,0.86637902
+bge_m3,generation_reference_secondary,te,Telugu,1,real_coco,88,0.62264965,0.09124287,0.62406236,0.41762781,0.82294214
+bge_m3,generation_reference_secondary,te,Telugu,1,openai,88,0.65559496,0.09215236,0.66417587,0.32416183,0.84446132
+bge_m3,generation_reference_secondary,te,Telugu,1,google,88,0.63712459,0.10373363,0.64581302,0.35949773,0.83448446
+bge_m3,generation_reference_secondary,tr,Turkish,4,real_coco,95,0.68996095,0.08348910,0.69621801,0.51003242,0.85659516
+bge_m3,generation_reference_secondary,tr,Turkish,4,openai,95,0.71785203,0.08280219,0.72575569,0.49469852,0.89847422
+bge_m3,generation_reference_secondary,tr,Turkish,4,google,95,0.70754016,0.08802624,0.70684010,0.46386567,0.87221682

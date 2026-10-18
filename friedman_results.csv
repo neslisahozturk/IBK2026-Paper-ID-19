@@ -1,0 +1,37 @@
+﻿embedding_model,analysis,language_code,language_name,tier,n,friedman_chi_square,degrees_of_freedom,p_raw,kendalls_w,p_holm_six_languages,significant_holm_0_05
+qwen3,all5_primary,ar,Modern Standard Arabic,5,96,13.84656085,2,0.00098459,0.07211750,0.00590757,True
+qwen3,all5_primary,da,Danish,3,99,1.60925450,2,0.44725461,0.00812755,0.44725461,False
+qwen3,all5_primary,en,English,5,100,7.00000000,2,0.03019738,0.03500000,0.12078953,False
+qwen3,all5_primary,sw,Swahili,2,91,4.24719101,2,0.11960083,0.02333621,0.35880249,False
+qwen3,all5_primary,te,Telugu,1,88,3.49132948,2,0.17452893,0.01983710,0.35880249,False
+qwen3,all5_primary,tr,Turkish,4,95,9.30978261,2,0.00951495,0.04899886,0.04757474,True
+qwen3,other4_sensitivity,ar,Modern Standard Arabic,5,96,22.70370370,2,0.00001175,0.11824846,0.00007049,True
+qwen3,other4_sensitivity,da,Danish,3,99,1.68123393,2,0.43144425,0.00849108,0.43144425,False
+qwen3,other4_sensitivity,en,English,5,100,17.77551020,2,0.00013807,0.08887755,0.00069035,True
+qwen3,other4_sensitivity,sw,Swahili,2,91,3.93258427,2,0.13997490,0.02160761,0.27994981,False
+qwen3,other4_sensitivity,te,Telugu,1,88,5.47976879,2,0.06457781,0.03113505,0.19373344,False
+qwen3,other4_sensitivity,tr,Turkish,4,95,12.53804348,2,0.00189408,0.06598970,0.00757632,True
+qwen3,generation_reference_secondary,ar,Modern Standard Arabic,5,96,4.89417989,2,0.08654507,0.02549052,0.34618028,False
+qwen3,generation_reference_secondary,da,Danish,3,99,4.78663239,2,0.09132633,0.02417491,0.34618028,False
+qwen3,generation_reference_secondary,en,English,5,100,15.08163265,2,0.00053096,0.07540816,0.00318578,True
+qwen3,generation_reference_secondary,sw,Swahili,2,91,4.40449438,2,0.11055444,0.02420052,0.34618028,False
+qwen3,generation_reference_secondary,te,Telugu,1,88,1.75722543,2,0.41535873,0.00998424,0.41535873,False
+qwen3,generation_reference_secondary,tr,Turkish,4,95,6.23369565,2,0.04429658,0.03280892,0.22148290,False
+bge_m3,all5_primary,ar,Modern Standard Arabic,5,96,16.03703704,2,0.00032931,0.08352623,0.00197585,True
+bge_m3,all5_primary,da,Danish,3,99,4.23136247,2,0.12055114,0.02137052,0.36165341,False
+bge_m3,all5_primary,en,English,5,100,3.01278772,2,0.22170805,0.01506394,0.36557830,False
+bge_m3,all5_primary,sw,Swahili,2,91,6.35955056,2,0.04159500,0.03494259,0.16638001,False
+bge_m3,all5_primary,te,Telugu,1,88,3.39884393,2,0.18278915,0.01931161,0.36557830,False
+bge_m3,all5_primary,tr,Turkish,4,95,7.77897574,2,0.02045582,0.04094198,0.10227910,False
+bge_m3,other4_sensitivity,ar,Modern Standard Arabic,5,96,23.14814815,2,0.00000941,0.12056327,0.00005644,True
+bge_m3,other4_sensitivity,da,Danish,3,99,13.23907455,2,0.00133405,0.06686401,0.00533619,True
+bge_m3,other4_sensitivity,en,English,5,100,18.32736573,2,0.00010478,0.09163683,0.00052388,True
+bge_m3,other4_sensitivity,sw,Swahili,2,91,6.56179775,2,0.03759445,0.03605383,0.07518890,False
+bge_m3,other4_sensitivity,te,Telugu,1,88,5.20231214,2,0.07418776,0.02955859,0.07518890,False
+bge_m3,other4_sensitivity,tr,Turkish,4,95,9.77358491,2,0.00754559,0.05143992,0.02263676,True
+bge_m3,generation_reference_secondary,ar,Modern Standard Arabic,5,96,3.30687831,2,0.19139055,0.01722332,0.38278111,False
+bge_m3,generation_reference_secondary,da,Danish,3,99,6.85347044,2,0.03249285,0.03461349,0.12469136,False
+bge_m3,generation_reference_secondary,en,English,5,100,19.58567775,2,0.00005585,0.09792839,0.00033510,True
+bge_m3,generation_reference_secondary,sw,Swahili,2,91,1.70786517,2,0.42573739,0.00938387,0.42573739,False
+bge_m3,generation_reference_secondary,te,Telugu,1,88,6.93641618,2,0.03117284,0.03941146,0.12469136,False
+bge_m3,generation_reference_secondary,tr,Turkish,4,95,8.19946092,2,0.01657714,0.04315506,0.08288572,False
